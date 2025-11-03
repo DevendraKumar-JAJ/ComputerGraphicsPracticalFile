@@ -54,3 +54,7 @@ Each program demonstrates a fundamental concept in **computer graphics**, includ
 ```c
 #include <graphics.h>
 
+4. Run:
+```c
+g++ filename.cpp -o output.exe -lbgi -lgdi32 -lcomdlg32 -luuid -loleaut32 -lole32
+
