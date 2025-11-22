@@ -1,7 +1,8 @@
+// 6. WAP to create the hut in Computer Graphics.
 #include <graphics.h>
 #include <conio.h>
 
-int main()
+    int main()
 {
   initwindow(600,500,"HUT");
   // Ground
